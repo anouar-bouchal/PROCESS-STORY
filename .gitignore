@@ -1,0 +1,12 @@
+# Ignore all files and directories
+*
+
+# But allow src, data, and output directories
+!src/
+!data/
+!output/
+
+# Allow all files and directories within src, data, and output
+!src/**
+!data/**
+!output/**

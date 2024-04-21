@@ -1,0 +1,20 @@
+173688,A_SUBMITTED,COMPLETE,112.0,2011-10-01 00:38:44,A,submitted,A_submitted
+173688,A_PARTLYSUBMITTED,COMPLETE,112.0,2011-10-01 00:38:44,A,partlysubmitted,A_partlysubmitted
+173688,A_PREACCEPTED,COMPLETE,112.0,2011-10-01 00:39:37,A,preaccepted,A_preaccepted
+173688,W_Completeren aanvraag,SCHEDULE,112.0,2011-10-01 00:39:38,W,complete application,W_complete application
+173688,W_Completeren aanvraag,START,,2011-10-01 11:36:46,W,complete application,W_complete application
+173688,A_ACCEPTED,COMPLETE,10862.0,2011-10-01 11:42:43,A,accepted,A_accepted
+173688,O_SELECTED,COMPLETE,10862.0,2011-10-01 11:45:09,O,selected,O_selected
+173688,A_FINALIZED,COMPLETE,10862.0,2011-10-01 11:45:09,A,finalized,A_finalized
+173688,O_CREATED,COMPLETE,10862.0,2011-10-01 11:45:11,O,created,O_created
+173688,O_SENT,COMPLETE,10862.0,2011-10-01 11:45:11,O,sent,O_sent
+173703,A_SUBMITTED,COMPLETE,112.0,2011-10-01 09:45:25,A,submitted,A_submitted
+173703,A_PARTLYSUBMITTED,COMPLETE,112.0,2011-10-01 09:45:25,A,partlysubmitted,A_partlysubmitted
+173703,A_PREACCEPTED,COMPLETE,112.0,2011-10-01 09:46:18,A,preaccepted,A_preaccepted
+173703,W_Completeren aanvraag,SCHEDULE,112.0,2011-10-01 09:46:18,W,complete application,W_complete application
+173703,W_Completeren aanvraag,START,10912.0,2011-10-01 11:37:46,W,complete application,W_complete application
+173703,W_Completeren aanvraag,COMPLETE,10912.0,2011-10-01 11:40:24,W,complete application,W_complete application
+173703,W_Completeren aanvraag,START,10912.0,2011-10-01 12:40:26,W,complete application,W_complete application
+173703,A_CANCELLED,COMPLETE,10912.0,2011-10-01 13:02:11,A,cancelled,A_cancelled
+173703,W_Completeren aanvraag,COMPLETE,10912.0,2011-10-01 13:02:12,W,complete application,W_complete application
+209586,A_SUBMITTED,COMPLETE,112.0,2012-02-15 09:50:28,A,submitted,A_submitted
